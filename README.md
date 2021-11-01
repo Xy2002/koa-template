@@ -9,5 +9,5 @@
 $ git clone https://github.com/Xy2002/koa-template.git
 $ cd koa-template
 $ npm install
-$ node index.js
+$ npm run start #自动重载 or npm run server #更新需重新运行
 ```
